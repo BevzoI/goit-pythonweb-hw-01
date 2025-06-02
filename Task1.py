@@ -70,6 +70,5 @@ def main() -> None:
     for vehicle in vehicles:
         vehicle.start_engine()
 
-
 if __name__ == "__main__":
     main()
